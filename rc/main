@@ -1,0 +1,11 @@
+# alias
+alias g="git"
+
+# ls
+alias ls='ls -FG'
+alias ll='ls -lFG'
+
+# コマンドのスペルを訂正
+setopt correct
+# ビープ音を鳴らさない
+setopt no_beep
